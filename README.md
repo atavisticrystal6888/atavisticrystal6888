@@ -6,8 +6,8 @@ Low-dependency, outcome-driven — I ship data-backed products, build dashboards
 Specializing in **AI product management** — shipping features powered by LLMs, vision models, and retrieval systems.
 
 🌐 **Portfolio** → [{SITE_URL}]({SITE_URL})  
-✉️ **Email** → [{EMAIL}](mailto:{EMAIL})  
-💼 **LinkedIn** → [{LINKEDIN}]({LINKEDIN})  
+✉️ **Email** → mailto:dhruvsinghal6888@gmail.com  
+💼 **LinkedIn** → linkedin.com/in/dhruvsinghal6888
 🧭 **Now** → [{SITE_URL}/now]({SITE_URL}/now)
 
 > 📬 **Open to:** Product Analyst · APM · AI PM · data-driven PM roles (mid-2026)
@@ -23,7 +23,7 @@ Specializing in **AI product management** — shipping features powered by LLMs,
 | 📈 **Marketing Effectiveness** | Multi-channel ROI attribution framework | Python · SQL · Power BI | +28% optimized spend |
 | 🧪 **[This portfolio]({SITE_URL})** | Next.js 16 + MDX + Three.js + edge-deployed | Next.js · React 19 · TypeScript · Framer Motion · Chart.js | LCP < 2s, A11y 100 |
 
-**Repos:** [aarchid-api](https://github.com/atavisticrystal6888/aarchid-api) · [aarchid-rework (upstream)](https://github.com/dfordp/aarchid-rework) · [portfolio](https://github.com/{GH_USERNAME}/portfolio)
+**Repos:** [aarchid-api](https://github.com/atavisticrystal6888/aarchid-api) · [aarchid-rework (upstream)](https://github.com/dfordp/aarchid-rework) ·
 
 ---
 
