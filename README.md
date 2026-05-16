@@ -8,7 +8,6 @@ Specializing in **AI product management** — shipping features powered by LLMs,
 🌐 **Portfolio** → [{SITE_URL}]({SITE_URL})  
 ✉️ **Email** → mailto:dhruvsinghal6888@gmail.com  
 💼 **LinkedIn** → linkedin.com/in/dhruvsinghal6888
-🧭 **Now** → [{SITE_URL}/now]({SITE_URL}/now)
 
 > 📬 **Open to:** Product Analyst · APM · AI PM · data-driven PM roles (mid-2026)
 
@@ -57,7 +56,7 @@ Specializing in **AI product management** — shipping features powered by LLMs,
 
 ### 📍 Currently
 
-- **Working on** — Product Intern @ Wipro Aviation OS · Consulting @ Odena
+- **Working on** — Product Intern @ Wipro Aviation OS 
 - **Shipping** — Aarkid (AI plant care) · this portfolio (v4)
 - **Learning** — LLM evaluation frameworks · growth experimentation · systems design
 - **Looking for** — Full-time Product Analyst / APM / AI PM roles
