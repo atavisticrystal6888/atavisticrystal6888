@@ -5,9 +5,7 @@ Low-dependency, outcome-driven — I ship data-backed products, build dashboards
 
 Specializing in **AI product management** — shipping features powered by LLMs, vision models, and retrieval systems.
 
-🌐 **[Portfolio]({dhruvsinghal.codes})**
-✉️ **[Email]({mailto:dhruvsinghal6888@gmail.com})**  
-💼 **[LinkedIn]({linkedin.com/in/dhruvsinghal6888})**  
+🌐 **[Portfolio](https://dhruvsinghal.codes)** ✉️ **[Email](mailto:dhruvsinghal6888@gmail.com)**  💼 **[LinkedIn](https://linkedin.com/in/dhruvsinghal6888)**  
 
 > 📬 **Open to:** Product Analyst · APM · AI PM · data-driven PM roles (mid-2026)
 
@@ -20,7 +18,7 @@ Specializing in **AI product management** — shipping features powered by LLMs,
 | 🌿 **Aarkid** *(with [@dfordp](https://github.com/dfordp))* | AI botanical intelligence — forensic plant diagnosis via multimodal vision + research-augmented LLMs | Gemini 1.5 Pro · Perplexity Sonar · Next.js · Cloudflare Workers · Hono · Supabase · R2 | 92% diagnosis accuracy |
 | 📊 **Customer Churn Analysis** | Predictive churn model + Power BI cohort dashboards | Python · Pandas · scikit-learn · SQL · Power BI | ~15% churn reduction |
 | 📈 **Marketing Effectiveness** | Multi-channel ROI attribution framework | Python · SQL · Power BI | +28% optimized spend |
-| 🧪 **[This portfolio]({SITE_URL})** | Next.js 16 + MDX + Three.js + edge-deployed | Next.js · React 19 · TypeScript · Framer Motion · Chart.js | LCP < 2s, A11y 100 |
+| 🧪 **[This portfolio](dhruvsinghal.codes)** | Next.js 16 + MDX + Three.js + edge-deployed | Next.js · React 19 · TypeScript · Framer Motion · Chart.js | LCP < 2s, A11y 100 |
 
 **Repos:** [aarchid-api](https://github.com/atavisticrystal6888/aarchid-api) · [aarchid-rework (upstream)](https://github.com/dfordp/aarchid-rework) ·
 
