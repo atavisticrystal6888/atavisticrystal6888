@@ -5,9 +5,9 @@ Low-dependency, outcome-driven — I ship data-backed products, build dashboards
 
 Specializing in **AI product management** — shipping features powered by LLMs, vision models, and retrieval systems.
 
-🌐 **Portfolio** → [{SITE_URL}]({SITE_URL})  
+🌐 **Portfolio** → [{SITE_URL}]({dhruvsinghal.codes})  
 ✉️ **Email** → mailto:dhruvsinghal6888@gmail.com  
-💼 **LinkedIn** → linkedin.com/in/dhruvsinghal6888
+💼 **LinkedIn** →  [{SITE_URL}]({linkedin.com/in/dhruvsinghal6888})
 
 > 📬 **Open to:** Product Analyst · APM · AI PM · data-driven PM roles (mid-2026)
 
