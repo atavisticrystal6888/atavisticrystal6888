@@ -60,7 +60,7 @@ Elixir · Rust · FastAPI · Kafka
 </table>
 
 **Also here:** [Hackmate](https://github.com/atavisticrystal6888/hackmate-rework) — co-founder matchmaking, 300+ organic users ·
-[Customer Churn Analysis](https://github.com/atavisticrystal6888/Customer-churn-analysis) — predictive scoring, ~15% churn reduction ·
+[Customer Churn Analysis](https://github.com/atavisticrystal6888/Customer-churn-analysis) — predictive scoring, ~15% projected churn reduction ·
 [This portfolio](https://github.com/atavisticrystal6888/Portfolio-v4) — [dhruvsinghal.codes](https://dhruvsinghal.codes), built as its own case study
 
 ## Experience
