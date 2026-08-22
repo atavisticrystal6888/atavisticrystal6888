@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Dhruv Singhal — Product Manager and builder. I scope, spec, and ship the v1. Currently PM Intern, Growth at The Sleep Company. 92% diagnosis accuracy, 300+ organic users, 200+ qualified prospects per day.">
+  <img src="assets/banner-light.png" alt="Dhruv Singhal — Product Manager and builder. I scope, spec, and ship the V1. Currently PM Intern, Growth at The Sleep Company. 92% diagnosis accuracy, 300+ organic users, 200+ qualified prospects per day.">
 </picture>
 
 <p align="center">
