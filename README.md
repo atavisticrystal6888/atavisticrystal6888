@@ -1,13 +1,22 @@
-# Dhruv Singhal
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Dhruv Singhal — Product Manager and builder. I scope, spec, and ship the v1. Currently PM Intern, Growth at The Sleep Company. 92% diagnosis accuracy, 300+ organic users, 200+ qualified prospects per day.">
+</picture>
 
-**Product manager who ships the v1.** I turn ambiguous business and workflow
-problems into specs, metrics, and working software — then keep going until the
-numbers move.
+<p align="center">
+  <a href="https://dhruvsinghal.codes">Portfolio</a> •
+  <a href="https://linkedin.com/in/dhruvsinghal6888">LinkedIn</a> •
+  <a href="https://dhruvsinghal.codes/resume/dhruv-singhal-resume.pdf">Résumé</a> •
+  <a href="mailto:dhruvsinghal6888@gmail.com">Email</a>
+</p>
 
-Currently **Product Manager Intern, Growth at The Sleep Company**.
-Open to **Associate PM, Product Analyst, and AI PM** roles.
+I turn ambiguous business and workflow problems into specs, metrics, and working
+software — then keep going until the numbers move. Currently **PM Intern, Growth
+at The Sleep Company**; open to **Associate PM, Product Analyst, and AI PM** roles.
 
-[Portfolio](https://dhruvsinghal.codes) · [LinkedIn](https://linkedin.com/in/dhruvsinghal6888) · [Résumé](https://dhruvsinghal.codes/resume/dhruv-singhal-resume.pdf) · [dhruvsinghal6888@gmail.com](mailto:dhruvsinghal6888@gmail.com)
+Twelve projects, five of them live, nine written up as full case studies, and
+eight essays on how the decisions got made — all at
+[dhruvsinghal.codes](https://dhruvsinghal.codes).
 
 ---
 
@@ -27,7 +36,7 @@ Open to **Associate PM, Product Analyst, and AI PM** roles.
 Photograph a sick plant, get a diagnosis you can act on. **92% accuracy** on a
 200-image golden set across 15 disease categories.
 
-Gemini 1.5 Pro · RAG · Cloudflare Workers
+`Gemini 1.5 Pro` `RAG` `Cloudflare Workers`
 
 [Live](https://www.aarchid.space/) · [Case study](https://dhruvsinghal.codes/projects/aarchid) · [API repo](https://github.com/atavisticrystal6888/aarchid-api)
 
@@ -39,7 +48,7 @@ Gemini 1.5 Pro · RAG · Cloudflare Workers
 The analytics desk a fund gets, for a retail Zerodha trader. **43+ indicators**,
 Monte Carlo VaR, ensemble forecasting, self-hosted.
 
-Elixir/Phoenix · Python · Kafka · React
+`Elixir/Phoenix` `Python` `Kafka` `React`
 
 [Case study](https://dhruvsinghal.codes/projects/kite-edge)
 
@@ -51,7 +60,7 @@ Elixir/Phoenix · Python · Kafka · React
 Experiments a team can trust on its own infrastructure. Deterministic bucketing
 from a Rust MurmurHash3 core, **50+ tenant-scoped routes**.
 
-Elixir · Rust · FastAPI · Kafka
+`Elixir` `Rust` `FastAPI` `Kafka`
 
 [Case study](https://dhruvsinghal.codes/projects/experiment-hub) · [Repo](https://github.com/atavisticrystal6888/A-B-Testing-Platform)
 
@@ -62,6 +71,8 @@ Elixir · Rust · FastAPI · Kafka
 **Also here:** [Hackmate](https://github.com/atavisticrystal6888/hackmate-rework) — co-founder matchmaking, 300+ organic users ·
 [Customer Churn Analysis](https://github.com/atavisticrystal6888/Customer-churn-analysis) — predictive scoring, ~15% projected churn reduction ·
 [This portfolio](https://github.com/atavisticrystal6888/Portfolio-v4) — [dhruvsinghal.codes](https://dhruvsinghal.codes), built as its own case study
+
+---
 
 ## Experience
 
@@ -84,11 +95,15 @@ retention improvement**, while managing a 4-person research and content team.
 Rebuilt lead scoring on 8+ firmographic and behavioural signals — qualified
 prospects went from ~10/day to **200+/day**, linked to 10 B2B acquisitions.
 
+---
+
 ## What I work with
 
-**Product** — discovery, PRDs and specs, feature scoping, KPI design, prioritisation, GTM
-**Analytics** — SQL, Python, Power BI, Mixpanel, experimentation, cohort and funnel analysis
-**AI & build** — RAG pipelines, prompt evals, model selection · TypeScript, Next.js, FastAPI, PostgreSQL
+**Product** — `discovery` `PRDs & specs` `feature scoping` `KPI design` `prioritisation` `GTM`
+
+**Analytics** — `SQL` `Python` `Power BI` `Mixpanel` `experimentation` `cohort & funnel analysis`
+
+**AI & build** — `RAG pipelines` `prompt evals` `model selection` `TypeScript` `Next.js` `FastAPI` `PostgreSQL`
 
 ## Writing
 
